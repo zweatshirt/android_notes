@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Notes</string>
+    <string name="add_note">Add Note</string>
+    <string name="info">Info</string>
+    <string name="ellipses">...</string>
+    <string name="content">Content</string>
+    <string name="file_name">Note.json</string>
+</resources>
